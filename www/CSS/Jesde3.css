@@ -1,0 +1,15 @@
+table.new_table{
+  width:90%;
+}
+
+table.new_table td {
+  border: 2px solid #000;
+  padding: 10px;
+}
+
+table.new_table tr:first-child td {
+  background-color: rgb(217, 217, 217);
+}
+table.new_table tr td:first-child  {
+  background-color: rgb(217, 217, 217);
+}
