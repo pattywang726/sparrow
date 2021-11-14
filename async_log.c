@@ -231,6 +231,9 @@ void *write_to_file(void *arg) {
 
 static
 int create_new_log(void) {
+	
+	fprintf(stdout, "%s\n", "vulnerability_4");
+	
 	char buf[MAX_PATH];
 	int fd;
 

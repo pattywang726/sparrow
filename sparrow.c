@@ -56,6 +56,9 @@ int main()
 	work_dir = conf.root_dir;
 
 	if (conf.log_enable) {
+		
+		fprintf(stdout, "%s\n", "config");
+		
 		log_init(conf.log_time_out, conf.log_level);
 	}
 

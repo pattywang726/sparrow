@@ -1,0 +1,328 @@
+[ 03:58:43.435307 ] INFO   7896 async_log.c:345 create async_log thread successfully
+[ 03:59:32.721470 ] INFO   7953 async_log.c:345 create async_log thread successfully
+[ 03:59:32.778721 ] INFO   7953 sparrow.c:104 sparrow started successfully!
+[ 03:59:46.952145 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60149, conn_fd:13
+[ 03:59:46.952167 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60148, conn_fd:14
+[ 03:59:51.368947 ] INFO   7955 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:51.368955 ] INFO   7955 sparrow.c:308 request is 551 bytes long
+[ 03:59:51.368958 ] INFO   7955 sparrow.c:309 method is GET
+[ 03:59:51.368961 ] INFO   7955 sparrow.c:310 path is /products-zero-emmision.html
+[ 03:59:51.368964 ] INFO   7955 sparrow.c:311 HTTP version is 1.1
+[ 03:59:51.368966 ] INFO   7955 sparrow.c:312 headers:
+[ 03:59:51.368970 ] INFO   7955 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:51.368973 ] INFO   7955 sparrow.c:315 Connection: keep-alive
+[ 03:59:51.368976 ] INFO   7955 sparrow.c:315 Upgrade-Insecure-Requests: 1
+[ 03:59:51.368978 ] INFO   7955 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:51.368982 ] INFO   7955 sparrow.c:315 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+[ 03:59:51.368984 ] INFO   7955 sparrow.c:315 Referer: http://18.188.49.136:8080/
+[ 03:59:51.368987 ] INFO   7955 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:51.368990 ] INFO   7955 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:51.368992 ] INFO   7955 sparrow.c:315 If-Modified-Since: Sat Nov  6 20:40:00 2021
+[ 03:59:51.368995 ] INFO   7955 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.620364 ] INFO   7956 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.620371 ] INFO   7956 sparrow.c:308 request is 519 bytes long
+[ 03:59:58.620374 ] INFO   7956 sparrow.c:309 method is GET
+[ 03:59:58.620377 ] INFO   7956 sparrow.c:310 path is /about-us.html
+[ 03:59:58.620380 ] INFO   7956 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.620382 ] INFO   7956 sparrow.c:312 headers:
+[ 03:59:58.620385 ] INFO   7956 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.620389 ] INFO   7956 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.620391 ] INFO   7956 sparrow.c:315 Upgrade-Insecure-Requests: 1
+[ 03:59:58.620394 ] INFO   7956 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.620397 ] INFO   7956 sparrow.c:315 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+[ 03:59:58.620400 ] INFO   7956 sparrow.c:315 Referer: http://18.188.49.136:8080/products-zero-emmision.html
+[ 03:59:58.620403 ] INFO   7956 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.620405 ] INFO   7956 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.620408 ] INFO   7956 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.681551 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60150, conn_fd:13
+[ 03:59:58.725123 ] INFO   7957 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.725129 ] INFO   7957 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.725133 ] INFO   7957 sparrow.c:309 method is GET
+[ 03:59:58.725136 ] INFO   7957 sparrow.c:310 path is /logo/ABOUT-US-LOGO1.png
+[ 03:59:58.725138 ] INFO   7957 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.725141 ] INFO   7957 sparrow.c:312 headers:
+[ 03:59:58.725144 ] INFO   7957 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.725147 ] INFO   7957 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.725150 ] INFO   7957 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.725153 ] INFO   7957 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.725156 ] INFO   7957 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.725159 ] INFO   7957 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.725162 ] INFO   7957 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.725164 ] INFO   7957 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.742855 ] INFO   7956 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.742861 ] INFO   7956 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.742864 ] INFO   7956 sparrow.c:309 method is GET
+[ 03:59:58.742867 ] INFO   7956 sparrow.c:310 path is /logo/ABOUT-US-LOGO2.png
+[ 03:59:58.742870 ] INFO   7956 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.742872 ] INFO   7956 sparrow.c:312 headers:
+[ 03:59:58.742876 ] INFO   7956 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.742879 ] INFO   7956 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.742882 ] INFO   7956 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.742885 ] INFO   7956 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.742888 ] INFO   7956 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.742890 ] INFO   7956 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.742893 ] INFO   7956 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.742896 ] INFO   7956 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.788243 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60152, conn_fd:16
+[ 03:59:58.788316 ] INFO   7955 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.788320 ] INFO   7955 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.788323 ] INFO   7955 sparrow.c:309 method is GET
+[ 03:59:58.788326 ] INFO   7955 sparrow.c:310 path is /logo/ABOUT-US-LOGO3.png
+[ 03:59:58.788329 ] INFO   7955 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.788342 ] INFO   7955 sparrow.c:312 headers:
+[ 03:59:58.788345 ] INFO   7955 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.788348 ] INFO   7955 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.788350 ] INFO   7955 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.788353 ] INFO   7955 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.788356 ] INFO   7955 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.788359 ] INFO   7955 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.788361 ] INFO   7955 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.788364 ] INFO   7955 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.793118 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60151, conn_fd:18
+[ 04:00:02.205658 ] INFO   7953 async_log.c:351 Log is going to be closed...
+[ 03:59:32.778721 ] INFO   7953 sparrow.c:104 sparrow started successfully!
+[ 03:59:46.952145 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60149, conn_fd:13
+[ 03:59:46.952167 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60148, conn_fd:14
+[ 03:59:51.368947 ] INFO   7955 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:51.368955 ] INFO   7955 sparrow.c:308 request is 551 bytes long
+[ 03:59:51.368958 ] INFO   7955 sparrow.c:309 method is GET
+[ 03:59:51.368961 ] INFO   7955 sparrow.c:310 path is /products-zero-emmision.html
+[ 03:59:51.368964 ] INFO   7955 sparrow.c:311 HTTP version is 1.1
+[ 03:59:51.368966 ] INFO   7955 sparrow.c:312 headers:
+[ 03:59:51.368970 ] INFO   7955 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:51.368973 ] INFO   7955 sparrow.c:315 Connection: keep-alive
+[ 03:59:51.368976 ] INFO   7955 sparrow.c:315 Upgrade-Insecure-Requests: 1
+[ 03:59:51.368978 ] INFO   7955 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:51.368982 ] INFO   7955 sparrow.c:315 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+[ 03:59:51.368984 ] INFO   7955 sparrow.c:315 Referer: http://18.188.49.136:8080/
+[ 03:59:51.368987 ] INFO   7955 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:51.368990 ] INFO   7955 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:51.368992 ] INFO   7955 sparrow.c:315 If-Modified-Since: Sat Nov  6 20:40:00 2021
+[ 03:59:51.368995 ] INFO   7955 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.620364 ] INFO   7956 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.620371 ] INFO   7956 sparrow.c:308 request is 519 bytes long
+[ 03:59:58.620374 ] INFO   7956 sparrow.c:309 method is GET
+[ 03:59:58.620377 ] INFO   7956 sparrow.c:310 path is /about-us.html
+[ 03:59:58.620380 ] INFO   7956 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.620382 ] INFO   7956 sparrow.c:312 headers:
+[ 03:59:58.620385 ] INFO   7956 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.620389 ] INFO   7956 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.620391 ] INFO   7956 sparrow.c:315 Upgrade-Insecure-Requests: 1
+[ 03:59:58.620394 ] INFO   7956 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.620397 ] INFO   7956 sparrow.c:315 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+[ 03:59:58.620400 ] INFO   7956 sparrow.c:315 Referer: http://18.188.49.136:8080/products-zero-emmision.html
+[ 03:59:58.620403 ] INFO   7956 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.620405 ] INFO   7956 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.620408 ] INFO   7956 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.681551 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60150, conn_fd:13
+[ 03:59:58.725123 ] INFO   7957 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.725129 ] INFO   7957 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.725133 ] INFO   7957 sparrow.c:309 method is GET
+[ 03:59:58.725136 ] INFO   7957 sparrow.c:310 path is /logo/ABOUT-US-LOGO1.png
+[ 03:59:58.725138 ] INFO   7957 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.725141 ] INFO   7957 sparrow.c:312 headers:
+[ 03:59:58.725144 ] INFO   7957 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.725147 ] INFO   7957 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.725150 ] INFO   7957 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.725153 ] INFO   7957 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.725156 ] INFO   7957 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.725159 ] INFO   7957 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.725162 ] INFO   7957 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.725164 ] INFO   7957 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.742855 ] INFO   7956 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.742861 ] INFO   7956 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.742864 ] INFO   7956 sparrow.c:309 method is GET
+[ 03:59:58.742867 ] INFO   7956 sparrow.c:310 path is /logo/ABOUT-US-LOGO2.png
+[ 03:59:58.742870 ] INFO   7956 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.742872 ] INFO   7956 sparrow.c:312 headers:
+[ 03:59:58.742876 ] INFO   7956 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.742879 ] INFO   7956 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.742882 ] INFO   7956 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.742885 ] INFO   7956 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.742888 ] INFO   7956 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.742890 ] INFO   7956 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.742893 ] INFO   7956 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.742896 ] INFO   7956 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.788243 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60152, conn_fd:16
+[ 03:59:58.788316 ] INFO   7955 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.788320 ] INFO   7955 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.788323 ] INFO   7955 sparrow.c:309 method is GET
+[ 03:59:58.788326 ] INFO   7955 sparrow.c:310 path is /logo/ABOUT-US-LOGO3.png
+[ 03:59:58.788329 ] INFO   7955 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.788342 ] INFO   7955 sparrow.c:312 headers:
+[ 03:59:58.788345 ] INFO   7955 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.788348 ] INFO   7955 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.788350 ] INFO   7955 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.788353 ] INFO   7955 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.788356 ] INFO   7955 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.788359 ] INFO   7955 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.788361 ] INFO   7955 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.788364 ] INFO   7955 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.793118 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60151, conn_fd:18
+[ 04:00:02.205658 ] INFO   7953 async_log.c:351 Log is going to be closed...
+[ 04:00:05.957976 ] INFO   7954 async_log.c:351 Log is going to be closed...
+[ 03:59:32.778721 ] INFO   7953 sparrow.c:104 sparrow started successfully!
+[ 03:59:46.952145 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60149, conn_fd:13
+[ 03:59:46.952167 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60148, conn_fd:14
+[ 03:59:51.368947 ] INFO   7955 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:51.368955 ] INFO   7955 sparrow.c:308 request is 551 bytes long
+[ 03:59:51.368958 ] INFO   7955 sparrow.c:309 method is GET
+[ 03:59:51.368961 ] INFO   7955 sparrow.c:310 path is /products-zero-emmision.html
+[ 03:59:51.368964 ] INFO   7955 sparrow.c:311 HTTP version is 1.1
+[ 03:59:51.368966 ] INFO   7955 sparrow.c:312 headers:
+[ 03:59:51.368970 ] INFO   7955 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:51.368973 ] INFO   7955 sparrow.c:315 Connection: keep-alive
+[ 03:59:51.368976 ] INFO   7955 sparrow.c:315 Upgrade-Insecure-Requests: 1
+[ 03:59:51.368978 ] INFO   7955 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:51.368982 ] INFO   7955 sparrow.c:315 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+[ 03:59:51.368984 ] INFO   7955 sparrow.c:315 Referer: http://18.188.49.136:8080/
+[ 03:59:51.368987 ] INFO   7955 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:51.368990 ] INFO   7955 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:51.368992 ] INFO   7955 sparrow.c:315 If-Modified-Since: Sat Nov  6 20:40:00 2021
+[ 03:59:51.368995 ] INFO   7955 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.620364 ] INFO   7956 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.620371 ] INFO   7956 sparrow.c:308 request is 519 bytes long
+[ 03:59:58.620374 ] INFO   7956 sparrow.c:309 method is GET
+[ 03:59:58.620377 ] INFO   7956 sparrow.c:310 path is /about-us.html
+[ 03:59:58.620380 ] INFO   7956 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.620382 ] INFO   7956 sparrow.c:312 headers:
+[ 03:59:58.620385 ] INFO   7956 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.620389 ] INFO   7956 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.620391 ] INFO   7956 sparrow.c:315 Upgrade-Insecure-Requests: 1
+[ 03:59:58.620394 ] INFO   7956 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.620397 ] INFO   7956 sparrow.c:315 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+[ 03:59:58.620400 ] INFO   7956 sparrow.c:315 Referer: http://18.188.49.136:8080/products-zero-emmision.html
+[ 03:59:58.620403 ] INFO   7956 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.620405 ] INFO   7956 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.620408 ] INFO   7956 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.681551 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60150, conn_fd:13
+[ 03:59:58.725123 ] INFO   7957 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.725129 ] INFO   7957 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.725133 ] INFO   7957 sparrow.c:309 method is GET
+[ 03:59:58.725136 ] INFO   7957 sparrow.c:310 path is /logo/ABOUT-US-LOGO1.png
+[ 03:59:58.725138 ] INFO   7957 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.725141 ] INFO   7957 sparrow.c:312 headers:
+[ 03:59:58.725144 ] INFO   7957 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.725147 ] INFO   7957 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.725150 ] INFO   7957 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.725153 ] INFO   7957 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.725156 ] INFO   7957 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.725159 ] INFO   7957 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.725162 ] INFO   7957 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.725164 ] INFO   7957 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.742855 ] INFO   7956 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.742861 ] INFO   7956 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.742864 ] INFO   7956 sparrow.c:309 method is GET
+[ 03:59:58.742867 ] INFO   7956 sparrow.c:310 path is /logo/ABOUT-US-LOGO2.png
+[ 03:59:58.742870 ] INFO   7956 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.742872 ] INFO   7956 sparrow.c:312 headers:
+[ 03:59:58.742876 ] INFO   7956 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.742879 ] INFO   7956 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.742882 ] INFO   7956 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.742885 ] INFO   7956 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.742888 ] INFO   7956 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.742890 ] INFO   7956 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.742893 ] INFO   7956 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.742896 ] INFO   7956 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.788243 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60152, conn_fd:16
+[ 03:59:58.788316 ] INFO   7955 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.788320 ] INFO   7955 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.788323 ] INFO   7955 sparrow.c:309 method is GET
+[ 03:59:58.788326 ] INFO   7955 sparrow.c:310 path is /logo/ABOUT-US-LOGO3.png
+[ 03:59:58.788329 ] INFO   7955 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.788342 ] INFO   7955 sparrow.c:312 headers:
+[ 03:59:58.788345 ] INFO   7955 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.788348 ] INFO   7955 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.788350 ] INFO   7955 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.788353 ] INFO   7955 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.788356 ] INFO   7955 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.788359 ] INFO   7955 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.788361 ] INFO   7955 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.788364 ] INFO   7955 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.793118 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60151, conn_fd:18
+[ 04:00:02.205658 ] INFO   7953 async_log.c:351 Log is going to be closed...
+[ 04:00:05.957976 ] INFO   7954 async_log.c:351 Log is going to be closed...
+[ 04:00:17.160403 ] INFO   7955 async_log.c:351 Log is going to be closed...
+[ 03:59:32.778721 ] INFO   7953 sparrow.c:104 sparrow started successfully!
+[ 03:59:46.952145 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60149, conn_fd:13
+[ 03:59:46.952167 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60148, conn_fd:14
+[ 03:59:51.368947 ] INFO   7955 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:51.368955 ] INFO   7955 sparrow.c:308 request is 551 bytes long
+[ 03:59:51.368958 ] INFO   7955 sparrow.c:309 method is GET
+[ 03:59:51.368961 ] INFO   7955 sparrow.c:310 path is /products-zero-emmision.html
+[ 03:59:51.368964 ] INFO   7955 sparrow.c:311 HTTP version is 1.1
+[ 03:59:51.368966 ] INFO   7955 sparrow.c:312 headers:
+[ 03:59:51.368970 ] INFO   7955 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:51.368973 ] INFO   7955 sparrow.c:315 Connection: keep-alive
+[ 03:59:51.368976 ] INFO   7955 sparrow.c:315 Upgrade-Insecure-Requests: 1
+[ 03:59:51.368978 ] INFO   7955 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:51.368982 ] INFO   7955 sparrow.c:315 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+[ 03:59:51.368984 ] INFO   7955 sparrow.c:315 Referer: http://18.188.49.136:8080/
+[ 03:59:51.368987 ] INFO   7955 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:51.368990 ] INFO   7955 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:51.368992 ] INFO   7955 sparrow.c:315 If-Modified-Since: Sat Nov  6 20:40:00 2021
+[ 03:59:51.368995 ] INFO   7955 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.620364 ] INFO   7956 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.620371 ] INFO   7956 sparrow.c:308 request is 519 bytes long
+[ 03:59:58.620374 ] INFO   7956 sparrow.c:309 method is GET
+[ 03:59:58.620377 ] INFO   7956 sparrow.c:310 path is /about-us.html
+[ 03:59:58.620380 ] INFO   7956 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.620382 ] INFO   7956 sparrow.c:312 headers:
+[ 03:59:58.620385 ] INFO   7956 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.620389 ] INFO   7956 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.620391 ] INFO   7956 sparrow.c:315 Upgrade-Insecure-Requests: 1
+[ 03:59:58.620394 ] INFO   7956 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.620397 ] INFO   7956 sparrow.c:315 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+[ 03:59:58.620400 ] INFO   7956 sparrow.c:315 Referer: http://18.188.49.136:8080/products-zero-emmision.html
+[ 03:59:58.620403 ] INFO   7956 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.620405 ] INFO   7956 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.620408 ] INFO   7956 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.681551 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60150, conn_fd:13
+[ 03:59:58.725123 ] INFO   7957 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.725129 ] INFO   7957 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.725133 ] INFO   7957 sparrow.c:309 method is GET
+[ 03:59:58.725136 ] INFO   7957 sparrow.c:310 path is /logo/ABOUT-US-LOGO1.png
+[ 03:59:58.725138 ] INFO   7957 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.725141 ] INFO   7957 sparrow.c:312 headers:
+[ 03:59:58.725144 ] INFO   7957 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.725147 ] INFO   7957 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.725150 ] INFO   7957 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.725153 ] INFO   7957 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.725156 ] INFO   7957 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.725159 ] INFO   7957 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.725162 ] INFO   7957 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.725164 ] INFO   7957 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.742855 ] INFO   7956 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.742861 ] INFO   7956 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.742864 ] INFO   7956 sparrow.c:309 method is GET
+[ 03:59:58.742867 ] INFO   7956 sparrow.c:310 path is /logo/ABOUT-US-LOGO2.png
+[ 03:59:58.742870 ] INFO   7956 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.742872 ] INFO   7956 sparrow.c:312 headers:
+[ 03:59:58.742876 ] INFO   7956 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.742879 ] INFO   7956 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.742882 ] INFO   7956 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.742885 ] INFO   7956 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.742888 ] INFO   7956 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.742890 ] INFO   7956 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.742893 ] INFO   7956 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.742896 ] INFO   7956 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.788243 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60152, conn_fd:16
+[ 03:59:58.788316 ] INFO   7955 sparrow.c:307 +++++++++++++++++++++++ REQUEST START +++++++++++++++++++++
+[ 03:59:58.788320 ] INFO   7955 sparrow.c:308 request is 414 bytes long
+[ 03:59:58.788323 ] INFO   7955 sparrow.c:309 method is GET
+[ 03:59:58.788326 ] INFO   7955 sparrow.c:310 path is /logo/ABOUT-US-LOGO3.png
+[ 03:59:58.788329 ] INFO   7955 sparrow.c:311 HTTP version is 1.1
+[ 03:59:58.788342 ] INFO   7955 sparrow.c:312 headers:
+[ 03:59:58.788345 ] INFO   7955 sparrow.c:315 Host: 18.188.49.136:8080
+[ 03:59:58.788348 ] INFO   7955 sparrow.c:315 Connection: keep-alive
+[ 03:59:58.788350 ] INFO   7955 sparrow.c:315 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+[ 03:59:58.788353 ] INFO   7955 sparrow.c:315 Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[ 03:59:58.788356 ] INFO   7955 sparrow.c:315 Referer: http://18.188.49.136:8080/about-us.html
+[ 03:59:58.788359 ] INFO   7955 sparrow.c:315 Accept-Encoding: gzip, deflate
+[ 03:59:58.788361 ] INFO   7955 sparrow.c:315 Accept-Language: en-US,en;q=0.9
+[ 03:59:58.788364 ] INFO   7955 sparrow.c:317 ++++++++++++++++++++++++ REQUEST END ++++++++++++++++++++++
+[ 03:59:58.793118 ] INFO   7953 sparrow.c:162 Got connection from ip:47.211.208.80, port:60151, conn_fd:18
+[ 04:00:02.205658 ] INFO   7953 async_log.c:351 Log is going to be closed...
+[ 04:00:05.957976 ] INFO   7954 async_log.c:351 Log is going to be closed...
+[ 04:00:17.160403 ] INFO   7955 async_log.c:351 Log is going to be closed...
+[ 04:00:48.749398 ] INFO   7956 async_log.c:351 Log is going to be closed...
