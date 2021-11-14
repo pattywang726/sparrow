@@ -460,6 +460,11 @@ void *read_http(ev_loop_t *loop, int sock, EV_TYPE events) {
 				fd_records[sock].total_len = (int)filestat.st_size;
 				setnonblocking(fd);
 			}
+			
+			// strcpy(filename, "./www/products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-product-product.html");
+			// char filename[0] = "./www/products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-products-wastewater-treatment-product-product.html";
+			// fprintf(stdout, "%s\n", filename);
+			
 			strcpy(fd_records[sock].path, filename);
 
 

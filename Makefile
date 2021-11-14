@@ -2,8 +2,8 @@ BIN := sparrow
 OBJS := sparrow.o thread_manage.o file.o ev_loop.o config.o async_log.o url.o min_heap.o cJSON.o picohttpparser.o
 CC := gcc
 DEBUG := -g -Wall
-CFLAGS := -Wall -c $(DEBUG)
-LFLAGS :=  -pthread -lrt -lm
+CFLAGS := -fsanitize=address -fsanitize-recover=address -Wall -c $(DEBUG)
+LFLAGS := -fsanitize=address -fsanitize-recover=address -pthread -lrt -lm
 
 sparrow: $(OBJS)
 	$(CC) $^ $(LFLAGS)  -o $@
